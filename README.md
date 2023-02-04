@@ -62,7 +62,7 @@
 <img src="https://user-images.githubusercontent.com/104167965/216762307-8909cea2-12eb-4a93-b8d8-339b7ec30f9b.PNG" width=600>
 
 This project was created for the Scrimba React course. <br>
-You can try the web app on Netlify, clicking on the following link: <a href= "https://tenzies.netlify.app/"> Tenzies </a>
+You can try the web app on Netlify, clicking on the following link: <a href= "https://play-tenzi.netlify.app/"> Tenzies </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,7 +142,7 @@ Don't forget to give the project a star! Thanks again!
 
 Ilaria Bertoldi - [Linkedin](https://www.linkedin.com/in/ilaria-bertoldi-837a20176/)
 
-Project Link: [https://tenzies.netlify.app/](https://tenzies.netlify.app/)
+Project Link: [https://tenzies.netlify.app/](https://play-tenzi.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
